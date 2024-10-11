@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Leonardo José, and I am a teacher at SENAI SC and I do engineering in automation and systems at UFSC.
-- 👀 I’m interested in javascript+node, machine learning, python, algorithms and IoT projects
-- 🌱 I’m currently learning machine learning
+# Hi, I'm Leonardo José 👋
 
----
-## That's my work profile, here you can see some of my projects!
+I’m a teacher at SENAI SC and an Automation and Systems Engineering student at UFSC. I have a passion for technology and am always looking for new challenges.
+
+### About me:
+- 💻 I'm interested in **JavaScript + Node.js**, **machine learning**, **Python**, **algorithms**, and **IoT projects**.
+- 🚀 Currently, I'm focused on improving my skills in **machine learning** and exploring its practical applications.
+
+Feel free to explore my repositories and collaborate on any project!
