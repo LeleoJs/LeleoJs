@@ -1,6 +1,6 @@
 # Hi, I'm Leonardo José 👋
 
-I’m a teacher at SENAI SC and an Automation and Systems Engineering student at UFSC. I have a passion for technology and am always looking for new challenges.
+I’m a Automation and Systems Engineering student and researcher at UFSC. I have a passion for technology and am always looking for new challenges.
 
 ### About me:
 - 💻 I'm interested in **JavaScript + Node.js**, **machine learning**, **Python**, **algorithms**, and **IoT projects**.
